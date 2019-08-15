@@ -284,12 +284,12 @@ body {
 }
 
 .animation_big {
-    animation: makeBig 1s linear;
+    animation: makeBig .5s linear;
     animation-fill-mode: both;
 }
 
 .animation_small {
-    animation: makeSmall 1s linear;
+    animation: makeSmall .5s linear;
     animation-fill-mode: both;
 }
 
